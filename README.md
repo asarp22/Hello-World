@@ -1,2 +1,2 @@
-# Hello-World
-"This repository is for practising GitHub Flow"
+# Hello-Word
+This repository is for practising GitHub Flow
